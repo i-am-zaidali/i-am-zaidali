@@ -10,6 +10,9 @@ I have worked hard on developing it and will continue to do so for the time bein
 I'm an 12th grader in college and studying computer science as a major as im a huge techie. 
 
 You can contact me at:
+
 Instagram -> @crayyy_zee
+
 Discord -> crayyy_zee#2900
+
 Gmail -> zaidlastid20@gmail.com
