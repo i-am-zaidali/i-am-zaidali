@@ -12,4 +12,4 @@ Instagram -> @crayyy_zee
 
 Discord -> crayyy_zee#2900
 
-Gmail -> zaidlastid20@gmail.com
+Professional email -> sza.crayzee@gmail.com
