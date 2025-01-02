@@ -1,15 +1,28 @@
-# Hi, I’m zaid. More commonly knows as zee or crayyy_zee
+<h1 align="center">Hi 👋, I'm Syed Zaid Ali</h1>
+<h3 align="center">A young soul with a passion to learn any and everything that I can. Although, I am primarily a python developer with majority of my experience being development of discord bots, I have dipped my hands in many different technologies such as playwright for web scraping or pillow for image generation.</h3>
 
-My main interests include internet surfing, watching youtube vids and exploring new stuff.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-zaidali" alt="i-am-zaidali" /></a> </p>
 
-That last one is the thing that got me into python and every day I'm trying to learn something new about this amazing language and improving myself in coding it.
+- 🌱 I’m currently learning **Java Spring**
 
-I'm currently a freshie in university pursuing Bachelors in Computer Science. 
+- 💬 Ask me about **Anything python**
 
-You can contact me at:
+- 📫 How to reach me **sza.crayzee@gmail.com**
 
-Instagram -> @crayyy_zee
+- 📄 Know about my experiences [linktr.ee/syedzaidali](linktr.ee/syedzaidali)
 
-Discord -> crayyy_zee#2900
+- ⚡ Fun fact **I'm an introverted person but always up for a hangout.**
 
-Professional email -> sza.crayzee@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/crayyy-zee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crayyy-zee" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-zaidali&show_icons=true&locale=en&layout=compact" alt="i-am-zaidali" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-zaidali&show_icons=true&locale=en" alt="i-am-zaidali" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-zaidali&" alt="i-am-zaidali" /></p>
